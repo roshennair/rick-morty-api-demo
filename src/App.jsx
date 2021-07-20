@@ -27,7 +27,7 @@ const App = () => {
 					: <p id="suggestion">Click the button, you pleb.</p>
 			}
 
-			<a id="secret" target="_blank" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ?autoplay=1">Secret sauce</a>
+			<a id="secret" target="_blank" rel="noreferrer" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ?autoplay=1">Secret sauce</a>
 		</>
 	);
 }
